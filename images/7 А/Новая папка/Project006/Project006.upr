@@ -1,0 +1,10 @@
+<Project xml:space="preserve" Version="2">
+<Head><Options Film_Width="1600" Film_Height="900" Film_Clip="False" Film_LightCursor="False" Film_LightCursorColor="65535" Film_LightCursorSize="48" Film_LightCursorTransparent="128" Film_LightCursorShape="0"/></Head>
+ <Objects>
+<Object Class="TFilmSound" ID="{16E5EA61-0D2E-4978-9266-CC1DA64010BD}" Name="Звук" Layer="0" Start="0" Len="3644" File="Sound_190116124448_000_002_000.wav" Volume="1000" GroupID="{B96E62FB-1792-4294-BB3B-09097765DCD5}" IsBackground="0"></Object>
+<Object Class="TFilmSound" ID="{E9E6415E-836F-4EB4-AD09-0F42725D1871}" Name="Звук" Layer="1" Start="0" Len="3653" File="Sound_190116124448_000_001_000.wav" Volume="1000" GroupID="{DDCF45DB-9166-492B-8254-43A4F5D1090C}" IsBackground="0"></Object>
+ </Objects>
+ <Labels>
+  <Label Frame="0">Запись 1</Label>
+ </Labels>
+</Project>
